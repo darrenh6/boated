@@ -1,0 +1,3 @@
+![[doggy_talents_showcase.png | left | 128]] DoggyTalentsNext transforms how you interact with your Minecraft dogs! They can now learn tricks, wear different cosmetics, equip all (even modded) armor, and level up. To start with the mod, tame a wolf and then give it a Taming Treat. Then, you can shift+right click on your dog to open the menu!
+
+For a more comprehensive guide to DoggyTalentsNext, please visit its [official wiki](https://doggytalentsnext.wiki.gg/wiki/Doggy_Talents_Next_Wiki).

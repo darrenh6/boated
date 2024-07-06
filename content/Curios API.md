@@ -1,0 +1,2 @@
+![[curios_api.png | left | 64]] 
+Curios API is an API that allows for "trinket" like slots. Mods with support now have slots for their specific items. For example, [[Mod Directory#Content Mods|Charm of Undying]] uses Curios API so that you can pop your Totem, even when it is not in either of your hands!

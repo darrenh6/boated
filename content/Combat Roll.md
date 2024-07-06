@@ -1,0 +1,2 @@
+![[combat_roll_logo.png | center | 800]]
+You can now press your action key hotkey (configurable) to roll in any direction! Just press that direction key first, and then roll to avoid skillshots or damage. This has a 10 second cooldown and consumes some hunger.
