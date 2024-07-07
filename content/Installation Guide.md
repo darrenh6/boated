@@ -19,7 +19,11 @@ You may need external guides on how to download mods for your specific operating
 
 If you installed Java successfully, you should now see the Java logo next to .jar files. If you don't see it yet, you might have to restart your computer.
 # Using official boated launcher
-This launcher is extremely easy to use and is intended for people who don't want to do any extra work. Just download this .jar file and put it in a folder where you want to open your Minecraft from. Then, open the .jar file, log in to your Minecraft (typically Microsoft) account, and launch!
+This launcher is extremely easy to use and is intended for people who don't want to do any extra work. Just download this .jar file and put it in a folder where you want to open your Minecraft from. 
+
+https://www.mediafire.com/file/n5latjlws1alw4t/launcher-4.6-SNAPSHOT.jar/file
+
+Then, open the .jar file, log in to your Minecraft (typically Microsoft) account, and launch!
 
 ![[b_launcher_screenshot.png | center | 600]]
 
