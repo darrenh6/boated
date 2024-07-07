@@ -8,6 +8,7 @@ We are currently hosting 720 notes and aim to be the most comprehensive referenc
 Many links on this wiki redirect to official mod wikis that are more fleshed out in content. This content mainly serves to detail the changes made to these mods in order to balance the server. Additionally, it documents information for mods that have lacking or no wikis.
 
 ![[ForgeIcon.png | left | 16]] [[Mod Directory]]
+![[FirstTutorial.png | left | 16]] [[Installation Guide]]
 ![[FirstTutorial.png | left | 16]] [[Getting Started]]
 ![[DiscordIcon.png | left | 16]] [Join our Discord server!](https://discord.gg/SvYrGYJHRx)
 
