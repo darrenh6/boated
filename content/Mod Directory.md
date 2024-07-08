@@ -1,15 +1,12 @@
 ```
 This is a full directory of every mod used in the boated server and its modpack. Mods that do not have their own dedicated page are explained briefly in this directory.
 ```
-# Optional Mods
-```
-These mods are optional but may enhance your gameplay experience. JEI is highly recommended and installed by default. The rest of these mods must be manually installed.
-```
+# UI/Aesthetic
 **3D Skin Layers**
 **Distant Horizons**
 	Renders far-away chunks in lower detail. Creates a more immersive view.		![](https://www.youtube.com/watch?v=M31DhtoNh9w)
 	
-To enable Distant Horizons, imply go into client side configs for Alex's Caves and disable `"biome_ambient_light_coloring"`
+To enable Distant Horizons, simply go into client side configs for Alex's Caves and disable `"biome_ambient_light_coloring"`. Then, in your options, the icon left of your FOV slider allows you to enable rendering.
 **Forge Config Screens**
 [**JEI (Just Enough Items)**](https://modrinth.com/mod/jei#Controls)
 	JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
