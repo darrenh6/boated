@@ -12,12 +12,23 @@ No matter what your launcher is, you will need to install the latest version of 
 
 If not, you will need to install Java!
 **If you are on Windows, simply follow instructions on this website.**
-https://www.java.com/download/ie_manual.jsp
+https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-windows
 **If you are using Mac or Linux, follow the instructions on this page:**
-https://www.java.com/en/download/help/download_options.html
+https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-mac
+https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-linux
+
+Make sure to click the x64 Installer link!
+
 You may need external guides on how to download mods for your specific operating system. To get the modpack, just scroll down to this: [[Installation Guide#I know what I'm doing, just give me the mods!|I know what I'm doing, just give me the mods!]]
 
 If you installed Java successfully, you should now see the Java logo next to .jar files. If you don't see it yet, you might have to restart your computer.
+# First Setup
+If you have **NEVER** played 1.20.1 before, modded or unmodded, you **MUST** set up a 1.20.1 vanilla profile and launch it at least once.
+![[launcher_guide_1.png | center | 700]]
+![[launcher_guide_2.png | center | 700]]
+![[launcher_guide_3.png | center | 700]]
+
+Then, just press Play and let it install one time. After the game fully opens and you see the main menu, you can close out of Minecraft and proceed.
 # Using official boated launcher
 This launcher is extremely easy to use and is intended for people who don't want to do any extra work. Just download this .jar file and put it in a folder where you want to open your Minecraft from. 
 
@@ -35,14 +46,7 @@ Just change the Maximum memory (in megabytes). It is recommended to allocate any
 
 The official boated launcher may not be the fastest possible way to play and it is **NOT** necessary to use in order to have a good experience. If you want to use your own launcher but don't know how, keep reading.
 # Using the official Minecraft launcher
-If you have **NEVER** played 1.20.1 before, modded or unmodded, you might need to set up a 1.20.1 vanilla profile and launch it at least once.
-![[launcher_guide_1.png | center | 700]]
-![[launcher_guide_2.png | center | 700]]
-![[launcher_guide_3.png | center | 700]]
-
-Then, just press Play and let it install one time. After the game fully opens and you see the main menu, you can close out of Minecraft and proceed.
-
-Next, download the 1.20.1 version of Forge from this link:
+First, download the 1.20.1 version of Forge from this link:
 https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
 
 When it's finished downloading, open it up. You should see this screen next.
