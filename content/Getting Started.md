@@ -1,7 +1,5 @@
 This is not an installation guide! For a guide on how to install the mods and join the server, visit [[Installation Guide]].
 
-![[motdf.png | center | 500]]
-
 Welcome to the server! There are some brief things you should know about the server before getting started. Firstly, you might want to get familiar with the wiki. It has a lot of great in-depth information about the mods in place. If not, this guide is a good place to start! The most significant content mods are [[Born in Chaos]], [[L_Ender's Cataclysm]], and [[Alex's Caves]], and provide some of the biggest challenges content-wise.
 
 You should also get familiar with the [[Death]] and [[PvP Flagging]] systems. Also, if you want to voice chat with other players, you can use the Discord and/or turn on proximity voice chat by setting up Simple Voice Chat! Just click V and it'll get you started.
