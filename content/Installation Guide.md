@@ -10,12 +10,12 @@ No matter what your launcher is, you will need to install the latest version of 
 
 ![[about_java_search.png | center | 500]]
 
-If not, you will need to install Java!
+If not, you will need to install Java! IF YOUR VERSION OF JAVA IS NOT WORKING, INSTALL JDK17 ONLY.
 **If you are on Windows, simply follow instructions on this website.**
-https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-windows
+https://www.oracle.com/java/technologies/downloads/#jdk17-windows
 **If you are using Mac or Linux, follow the instructions on this page:**
-https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-mac
-https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-linux
+https://www.oracle.com/java/technologies/downloads/#jdk17-mac
+https://www.oracle.com/java/technologies/downloads/#jdk17-linux
 
 Make sure to click the x64 Installer link!
 
@@ -75,7 +75,8 @@ Extract the .zip folder and drag or copy all of its contents into the mods folde
 
 It is recommended to allocate anywhere from **4-6 GB** of RAM. You should not allocate more than 50% of your available RAM! Also, you may experience memory optimization errors and lag if you allocate more than **10GB** of RAM.
 # Using third-party launchers
-You can download the modpack from the same Mediafire link: https://www.mediafire.com/file/j42ogv01cg9cxbz/boated-modpack.zip/file
+You can download the Prism modpack (works with Prism and other launchers) here: 
+You can download the RAW modpack from the same Mediafire link: https://www.mediafire.com/file/j42ogv01cg9cxbz/boated-modpack.zip/file
 Mediafire may be slow. Test the mega.nz mirror:
 https://mega.nz/file/ta0H3DqJ#_hAOTzzERrIfCDMFccqbWxiLTPhO_TEArJO56YpyiH0
 
