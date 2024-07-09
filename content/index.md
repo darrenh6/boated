@@ -1,7 +1,8 @@
 ---
 title: Main Page
 ---
-
+Server IP: `194.104.156.2:19560`
+Request for whitelist on Discord!
 ![[minecraft_title.png | center | 300]]
 # Welcome to the official `boated` Minecraft server wiki!
 We are currently hosting 720 notes and aim to be the most comprehensive reference for the mods and features added to the game.
