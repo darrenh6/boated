@@ -62,6 +62,8 @@ Press Win+R to navigate to your .minecraft folder. You should see your mods fold
 Open this mod folder. This is where you will be drag and dropping all of the mods!
 Download the modpack from here:
 https://www.mediafire.com/file/j42ogv01cg9cxbz/boated-modpack.zip/file
+Mediafire may be slow. Test the mega.nz mirror:
+https://mega.nz/file/ta0H3DqJ#_hAOTzzERrIfCDMFccqbWxiLTPhO_TEArJO56YpyiH0
 
 Extract the .zip folder and drag or copy all of its contents into the mods folder. Okay, that's it! You're good to go. Just launch the Forge 1.20.1 profile from the Minecraft launcher and you can play!
 
@@ -74,6 +76,8 @@ Extract the .zip folder and drag or copy all of its contents into the mods folde
 It is recommended to allocate anywhere from **4-6 GB** of RAM. You should not allocate more than 50% of your available RAM! Also, you may experience memory optimization errors and lag if you allocate more than **10GB** of RAM.
 # Using third-party launchers
 You can download the modpack from the same Mediafire link: https://www.mediafire.com/file/j42ogv01cg9cxbz/boated-modpack.zip/file
+Mediafire may be slow. Test the mega.nz mirror:
+https://mega.nz/file/ta0H3DqJ#_hAOTzzERrIfCDMFccqbWxiLTPhO_TEArJO56YpyiH0
 
 It is NOT recommended to use PolyMC or TLauncher, as they may have been compromised.
 To use Prism Launcher or any other third party launcher, you can follow these tutorials.
@@ -84,6 +88,8 @@ To use Prism Launcher or any other third party launcher, you can follow these tu
 It is recommended to allocate anywhere from **4-6 GB** of RAM. You should not allocate more than 50% of your available RAM! Also, you may experience memory optimization errors and lag if you allocate more than **10GB** of RAM. Each launcher has its own method of allocating more RAM.
 # I know what I'm doing, just give me the mods!
 https://www.mediafire.com/file/j42ogv01cg9cxbz/boated-modpack.zip/file
+Mediafire may be slow. Test the mega.nz mirror:
+https://mega.nz/file/ta0H3DqJ#_hAOTzzERrIfCDMFccqbWxiLTPhO_TEArJO56YpyiH0
 # Joining the server
 If you've never joined a Minecraft server before, here's how!
 First, copy the server address: `194.104.156.2:19560`
