@@ -651,8 +651,8 @@ Long and pokey.
 ## Shell Mace
 `born_in_chaos_v1:shell_mace`
 ![[shell_mace.png | center |32]]
-Ignores armor and deals damage if both parties are under water.
-**Attack Damage:** 8 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
+Ignores armor. Deals extra damage if both parties are under water.
+**Attack Damage:** 4 ![[full_heart.png]]![[full_heart.png]]
 **Attack Speed:** 1.4
 **Attack Range:** 2.6
 ## Dark Ritual Dagger
