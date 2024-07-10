@@ -2,25 +2,25 @@
 ## Stone Scythe
 `simpleweapons:stone_scythe`
 ![[stone_scythebeeg.png | center | 32]]
-**Attack Damage:** 5 ![[full_heart.png]]![[full_heart.png]]![[half_heart.png]]
+**Attack Damage:** 4 ![[full_heart.png]]![[full_heart.png]]
 **Attack Speed:** 1.1
 **Attack Range:** 3.5
 ## Iron Scythe
 `simple_weapons:iron_scythe`
 ![[iron_scythebeeg.png | center | 32]]
-**Attack Damage:** 6 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
+**Attack Damage:** 5 ![[full_heart.png]]![[full_heart.png]]![[half_heart.png]]
 **Attack Speed:** 1.1
 **Attack Range:** 3.5
 ## Diamond Scythe
 `simple_weapons:diamond_scythe`
 ![[diamond_scythebeeg.png | center | 32]]
-**Attack Damage:** 7 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[half_heart.png]]
+**Attack Damage:** 6 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
 **Attack Speed:** 1.1
 **Attack Range:** 3.5
 ## Netherite Scythe
 `simple_weapons:netherite_scythe`
 ![[netherite_scythebeeg.png | center | 32]]
-**Attack Damage:** 8 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
+**Attack Damage:** 7 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[public/half_heart.png]]
 **Attack Speed:** 1.1
 **Attack Range:** 3.5
 ## Stone Dagger
@@ -98,25 +98,25 @@
 ## Stone Katar
 `simple_weapons:stone_fist`
 ![[stone_katar.png | center | 32]]
-**Attack Damage:** 4.1 ![[full_heart.png]]
+**Attack Damage:** 4 ![[full_heart.png]]![[full_heart.png]]
 **Attack Speed:** 1.4
 **Attack Range:** 2
 ## Iron Katar
 `simple_weapons:iron_fist`
 ![[iron_katar.png | center | 32]]
-**Attack Damage:** 5.1 ![[full_heart.png]]
+**Attack Damage:** 5 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[public/half_heart.png]]
 **Attack Speed:** 1.4
 **Attack Range:** 2
 ## Diamond Katar
 `simple_weapons:diamond_fist`
 ![[diamond_katar.png | center | 32]]
-**Attack Damage:** 6.6 ![[full_heart.png]]
+**Attack Damage:** 6 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
 **Attack Speed:** 1.4
 **Attack Range:** 2
 ## Netherite Katar
 `simple_weapons:netherite_fist`
 ![[netherite_katar.png | center | 32]]
-**Attack Damage:** 8.1 ![[full_heart.png]]
+**Attack Damage:** 7.5 ![[full_heart.png]]
 **Attack Speed:** 1.4
 **Attack Range:** 2
 ## Stone Scimitar
