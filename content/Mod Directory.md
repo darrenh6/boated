@@ -40,7 +40,7 @@ To enable Distant Horizons, simply go into client side configs for Alex's Caves 
 **Cloth Config API**
 	This mod is used for: [[Better Combat]] and [[Combat Roll]]
 **Collective API**
-	This mod is used for: Bottle Your XP and Furnace Recycle
+	This mod is used for: Bottle Your XP
 **Cupboard**
 	This mod is used for: Better Chunk Loading
 [[Curios API]]
@@ -96,8 +96,8 @@ Mod that sets default options and keybinds for different mods. This avoids confl
 [[End Remastered]]
 [[Epic Empires]] (Relies on: AzureLib Armor)
 [[Explosive Enhancement Reforged]]
-**Furnace Recycle** (Relies on: Collective)
-	All metal-containing vanilla items can be smelted for a lesser amount of material that was used to craft it.
+**Furnace Recycle**
+	> Has been adapted to a datapack. Smelting armor will return 1 of its crafting recipe.
 [[Gliders]]
 [[Gnumus Settlement]] (Relies on: GeckoLib)
 **Gravestone**

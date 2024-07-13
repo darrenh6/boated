@@ -532,7 +532,7 @@ Calls down a flurry of arrows.
 `warriorsofpastepoch:musketeer_rapier`
 ![[rapier.png | center |32]]
 **Attack Damage:** 8 ![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]![[full_heart.png]]
-**Attack Speed:** 1.8
+**Attack Speed:** 1.5
 **Attack Range:** 2.75
 ## Musket
 `warriorsofpastepoch:musket`
